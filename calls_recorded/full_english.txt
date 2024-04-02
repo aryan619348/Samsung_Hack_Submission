@@ -1,0 +1,27 @@
+Customer: Hello, I'd like to inquire about returning some items I recently purchased from Zorbo.
+
+Customer Support: Of course, I'd be happy to assist you with that. Can you please provide me with your order number?
+
+Customer: Sure, my order number is 987654.
+
+Customer Support: Thank you. May I ask the reason for the return?
+
+Customer: I just realized that the size I ordered doesn't fit me quite right, and I'd like to exchange it for a different size.
+
+Customer Support: Understood. We have a 30-day return policy for exchanges and refunds. Let me guide you through the process. First, could you please confirm which items you'd like to return and the size you'd like to exchange them for?
+
+Customer: I'd like to return the black t-shirt in size Medium and exchange it for a Large size.
+
+Customer Support: Got it. Please give me a moment while I check the availability of the Large size in our inventory.
+
+(Customer Support checks inventory)
+
+Customer Support: Great news, we have the Large size in stock. To proceed with the exchange, I'll need to initiate a return for the Medium size t-shirt and issue you a return label. Once we receive the returned item, we'll ship out the Large size t-shirt to you.
+
+Customer: Sounds good to me. What do I need to do next?
+
+Customer Support: I'll send you a return label via email along with instructions on how to package and ship the item back to us. Please make sure to return the item in its original condition with tags attached. Once we receive the item, we'll process the exchange and notify you via email.
+
+Customer: Thank you for your assistance. I appreciate your help in resolving this issue.
+
+Customer Support: You're welcome. If you have any other questions or concerns, please don't hesitate to reach out. We're here to help.

@@ -1,0 +1,26 @@
+User Input = Hi. Tell me about the brand.
+
+Zorbo ke t-shirts ka farq kya hai dusre market ke t-shirts se?
+Zorbo mein hum apne t-shirts ki quality aur comfort par garv karte hain. Hamare shirts premium cotton blends se banaye gaye hain jo soft, breathable, aur long-lasting hote hain. Hum unique designs aur prints par dhyan dete hain jo humein competition se alag banate hain.
+User Input = Tell me a bit more about your t shirts.
+
+Zorbo ke t-shirts kaunsi baat alag karti hain dusre market ke t-shirts se?
+Zorbo mein hum quality aur comfort par garv karte hain. Hamare shirts premium cotton blends se banaye gaye hain jo soft, breathable, aur long-lasting hote hain. Ham unique designs aur prints par dhyan dete hain jo hamen competition se alag banate hain.
+User Input = Okay.
+
+Haan, hum electronic gift cards offer karte hain jo aap seedha hamare website se khareed sakte hain. Apne dosto aur pyaaron ko stylish kapdon ka tohfa dene ke liye Zorbo gift card ka istemal karein.
+User Input = How do I get my delivery?
+
+Apne order number ke saath humein contact karein agar aapka order late ho gaya hai ya abhi tak nahi aaya hai. Hum samasya ka jaanch karenge aur aapko package ke status ke baare mein updates provide karenge.
+User Input = Can I get my order delivered internationally?
+
+Haan, hum select desho mein antarrashtriya shipping pradaan karte hain. Kripya dhyaan dein ki antarrashtriya aadeshon par varisth kar, kharidane ke daam, aur pravesh shulk desh ke dvaara lagaye gaye hain. Ye shulk praptak ka jimmedari hai aur kharidane ke daam ya shipping shulk mein shaamil nahi hain.
+User Input = What are the clothes made out of?
+
+Zorbo's clothing is made from soft, breathable cotton blends for t-shirts and durable denim fabrics for jeans, ensuring both style and comfort in every piece.
+User Input = Okay. Can I customize my clothing absorbed?
+
+Haan, aap apne kapde absorb kar sakte hain. Aap apne kapde ko apne hisaab se customize kar sakte hain.
+User Input = What payment options do you guys have?
+
+Hum sabhi major credit cards jaise Visa, Mastercard, American Express, aur Discover ko accept karte hain. Hum PayPal aur Apple Pay jaise suvidha janak bhugtaan vikalpon ko bhi upalabdh karte hain ek aasan checkout anubhav ke liye.

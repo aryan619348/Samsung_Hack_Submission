@@ -1,0 +1,23 @@
+Customer: Hi, maine ek hafte pehle aapki dukaan se order kiya tha, aur abhi tak nahi aaya! Kya ho raha hai?
+
+Customer Support: I'm sorry to hear that your order hasn't arrived yet. Let me look into this for you. Can you please provide me with your order number?
+
+Customer: Theek hai. Order number 123456 hai.
+
+Customer Support: Thank you. Let me check the status of your order right away. (After a brief pause) I see that your order was shipped out teen din pehle via our standard shipping method. Let me track the package for you.
+
+Customer: (Impatient) Achha, lekin der kyun ho rahi hai? Ab tak kyun nahi pahuncha?
+
+Customer Support: Shipping carrier mein der ho sakti hai. I apologize for the inconvenience. Let me reach out to them to get more information on the status of your package.
+
+Customer: This is ridiculous. Mujhe isse weekend ke event ke liye chahiye the, aur ab lagta hai mujhe time par nahi milenge.
+
+Customer Support: I completely understand your frustration, and I'm truly sorry for the inconvenience this has caused. I'll do everything I can to expedite the process and ensure that you receive your order as soon as possible. In the meantime, agar kuch aur help chahiye ya phir koi sawaal ho, mujhe batayein.
+
+Customer: Alright, I appreciate your help. Please keep me updated on any progress with my order.
+
+Customer Support: Of course, I'll keep you informed every step of the way. Thank you for your patience, and once again, I apologize for any inconvenience. If you have any other concerns or questions, feel free to reach out to me at any time.
+
+Customer: Thank you for your assistance. I'll be waiting to hear back from you.
+
+Customer Support: You're welcome. Have a great day, and I'll be in touch soon with an update on your order. Take care!

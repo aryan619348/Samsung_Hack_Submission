@@ -1,0 +1,234 @@
+User Input = Want to.
+
+Answer = Yes, I want to.
+
+
+User Input = Check.
+
+Answer = The Lane Grid Navy Checks Shirt and Lane Grid Black Checks Shirt are both slim fit shirts with a grid pattern, perfect for a casual yet stylish look. They feature full sleeves, a button-down collar, checks pattern, curve hem design, and spare buttons included. Available in XXL size.
+
+
+User Input = One, two.
+
+Answer = One, two: Short and crisp.
+
+
+User Input = What is your name?
+
+Answer = My name is Snitch.
+
+
+User Input = Tell me about your company.
+
+Answer = Our company, Snitch, is dedicated to providing excellent customer service and assistance. We are available to help with any questions about our products, orders, or feedback. Our operating hours are Monday to Saturday from 10:00 AM to 7:00 PM. We also offer returns and exchanges for damaged or incorrect products. Thank you for choosing Snitch, we look forward to assisting you!
+
+
+User Input = Thank you.
+
+Answer = Sure, you're welcome.
+
+
+User Input = Hello.
+
+Answer = Hello! How can I assist you today?
+
+
+User Input = Tell me a joke.
+
+Answer = Sure, here's a joke for you:
+
+Why did the tomato turn red? Because it saw the salad dressing.
+
+
+User Input = Okay. Tell me a joke in Hindi.
+
+Answer = Sure, here's a Hindi joke for you:
+
+संता ने अपनी नई कार देखाई।
+
+बंता- इसमें रेडियो है?
+
+संता- हां।
+
+बंता- एफ्एम, एम और क्या क्या है?
+
+संता- क्या जरूरी है भाई। इसमें चलाई तो सोंग तो मेंगा ही।
+
+(I hope you enjoyed the joke!)
+
+
+User Input = Thank you so much.
+
+Answer = You're welcome, happy to help! If you have any other requests or questions, feel free to ask.
+
+
+User Input = Reply to all my questions in Hindi from now.
+
+Answer = ठीक है, मैं अब सभी आपके सवालों के जवाब हिंदी में दूंगा। क्या मुझे कोई सहायता कर सकती है?
+
+
+User Input = Tell me about yourself.
+
+Answer = मैं एक AI language model हूँ जो आपकी सहायता करने के लिए बनाया गया हूँ। मैं भारत और पूरी दुनिया में लोगों के साथ बातचीत करने में सक्षम हूँ। मुझे अंग्रेजी , हिंदी और कुछ अन्य भाषाओं में बोला जा सकता है। मुझसे कोई भी पूछताछ संबंधित मुद्दों, सिद्धांतों या नियमों से संबंधित हो सकता है।
+
+
+User Input = Thank you so much.
+
+Answer = आपका स्वागत है। मुझे आपकी सेवा में होने का बहुत खुशी हो रहा है। अगर आपको और कोई सहायता चाहिए तो बताएं।
+
+
+User Input = Hi. Tell me about yourself.
+
+Answer = Hi, I'm here to help and assist you with any questions or feedback you may have about our products. Feel free to reach out to us via Instagram or Whatsapp during our operating hours. Thank you for choosing Snitch, we look forward to assisting you!
+
+
+User Input = Okay, what is.
+
+Answer = I'm sorry, but the information provided seems to be related to product images and metadata from a specific source. It does not contain a question or topic to answer. If you have a specific question or topic in mind, please provide it so I can assist you accordingly.
+
+
+User Input = Snetch.
+
+Answer = SNITCH offers a variety of products including shirts, jeans, and trousers in different styles and colors suitable for casual and formal wear. Prices range from 999.00 to 1799.00, with options for different sizes. Remember to follow care instructions to maintain the quality of the products.
+
+
+User Input = Hello.
+
+Answer = Hello! We're here to help. Contact us for any questions, assistance with orders, or feedback. Operating hours are Monday to Saturday, 10:00 AM - 7:00 PM. Visit our Returns & Exchanges page for returns. Thank you for choosing Snitch!
+
+
+User Input = Tell me a bit more about Snetch.
+
+Answer = Snitch is a brand that offers a variety of products including shirts and chinos. Their shirts are categorized as beach wear, casual wear, and summer wear, featuring box fit, Cuban collar, half sleeves, and textured designs. The shirts are made of polyester material and come in white and black colors. The chinos are slim fit and suitable for casual, office, and party wear. The brand provides sizing information and washing instructions for their products. Customers can contact Snitch for support via Instagram, WhatsApp, or email during specified operating hours. They also offer returns and exchanges for their products.
+
+
+User Input = What is the returns and exchange policy?
+
+Answer = The return and exchange policy allows for returns/exchanges within 7 days of delivery for unused, unwashed, undamaged items with original packaging and tags. Boxers, socks, perfumes, and face masks cannot be returned. Refunds are processed within 72 hours after quality check, with store credit for promotional purchases and bank account refunds for non-promotional purchases. Damaged or wrong items must be reported within 24 hours of delivery.
+
+
+User Input = Hi.
+
+Answer = Please contact Snitch for assistance with products, orders, or feedback. Operating hours are Monday to Saturday, 10:00 AM - 7:00 PM. For returns and exchanges, visit their Returns & Exchanges page. Thank you for choosing Snitch!
+
+
+User Input = Okay, tell me something about.
+
+Answer = "SNITCH" is a white shirt made of 100% cotton with a box fit design. It is suitable for casual and summer wear, featuring a Cuban collar and half sleeves. The shirt comes with spare buttons included and is available in sizes S and M.
+
+
+User Input = Hi. Tell me about.
+
+Answer = Hi! We're here to help and would love to hear from you. Whether you have a question about our products, need assistance with an order, or just want to share your feedback, our team is ready to assist. You can reach us on Instagram or Whatsapp during our operating hours from Monday to Saturday, 10:00 AM - 7:00 PM. For returns and exchanges, please visit our Returns & Exchanges page. Thank you for choosing Snitch, we're looking forward to assisting you!
+
+
+User Input = Nut.
+
+Answer = The fabric of the product is 100% cotton and it comes with spare buttons included. The fit is described as Box Fit.
+
+
+User Input = Okay, what is niche?
+
+Answer = A niche is a specific segment of the market that a product or service is targeting, often defined by unique characteristics or needs of the customers within that segment.
+
+
+User Input = Hello.
+
+Answer = Hello! We're here to help and would love to hear from you. Contact us for any questions, assistance with orders, or feedback. Operating hours are Monday to Saturday, 10:00 AM - 7:00 PM. Visit our Returns & Exchanges page for returns and exchanges. Thank you for choosing Snitch!
+
+
+User Input = Hi. How are you?
+
+Answer = I'm good, thank you. How can I assist you today?
+
+
+User Input = Nothing much. Can you tell me about your company?
+
+Answer = Our company, Snitch, offers a range of products including shirts that are perfect for beach wear, casual wear, and summer wear. Our shirts feature a Cuban collar, half sleeves, and a box fit design. You can find our products in various sizes and colors like white. For any inquiries, feedback, or assistance with orders, feel free to reach out to our team via Instagram or Whatsapp during our operating hours from Monday to Saturday, 10:00 AM - 7:00 PM. Thank you for choosing Snitch, we look forward to assisting you!
+
+
+User Input = Thank you.
+
+Answer = Sure, you're welcome.
+
+
+User Input = Hi. How are you?
+
+Answer = We're here to help and would love to hear from you, whether you have a question about our products, need assistance with an order, or just want to share your feedback. Thank you for choosing Snitch, we're looking forward to assisting you!
+
+
+User Input = Hi. How are you?
+
+Answer = We're here to help and would love to hear from you, whether you have a question about our products, need assistance with an order, or just want to share your feedback. Thank you for choosing Snitch, we're looking forward to assisting you!
+
+
+User Input = Hi. How are you?
+
+Answer = We're here to help and would love to hear from you, whether you have a question about our products, need assistance with an order, or just want to share your feedback. Thank you for choosing Snitch, we're looking forward to assisting you!
+
+
+User Input = Hi. How are you?
+
+Answer = We're here to help and would love to hear from you, whether you have a question about our products, need assistance with an order, or just want to share your feedback. Thank you for choosing Snitch, we're looking forward to assisting you!
+
+
+User Input = Is anyone there?
+
+Answer = We're here to help and would love to hear from you, whether you have a question about our products, need assistance with an order, or just want to share your feedback. Our team is ready to assist during our operating hours from Monday to Saturday, 10:00 AM - 7:00 PM.
+
+
+User Input = Check, check.
+
+Answer = Lane Grid Navy Checks Shirt: Slim fit, sophisticated grid pattern, perfect for any occasion.
+
+
+User Input = One, two, three.
+
+Answer = Our products are showcased on page 1200 of the document provided.
+
+
+User Input = Hi. How are you?
+
+Answer = I'm good, thank you. How can I assist you today?
+
+
+User Input = Hi. How are you?
+
+Answer = I'm here to assist you. How can I help you today?
+
+
+User Input = Nothing much. Can you tell me about yourself?
+
+Answer = I'm a customer support agent here to assist you with any queries you have.
+
+
+User Input = Tell me about your company.
+
+Answer = We're Snitch, here to assist with products, orders, and feedback. Contact us for help!
+
+
+User Input = Can you tell us more about.
+
+Answer = Contact us for product queries, orders, and feedback. Operating hours: Mon-Sat, 10AM-7PM.
+
+
+User Input = What do you guys sell?
+
+Answer = We sell shirts in various styles like beachwear and casual wear.
+
+
+User Input = Can you recommend me some clothes for peach event?
+
+Answer = Double Cuff Peach Shirt for a stylish look at the peach event.
+
+
+User Input = What is the clothes nib in your company?
+
+Answer = The clothes nib in our company includes trousers, jeans, and shirts in various styles.
+
+
+User Input = Hi. Tell me about Zorbu.
+
+Answer = Zorbo offers trendy and comfortable clothing, specializing in high-quality t-shirts and jeans for men and women. The t-shirts are made from premium cotton blends, ensuring softness, breathability, and durability. Unique designs and prints set Zorbo apart from other brands in the market. If you have any feedback or suggestions, you can share them by leaving a review on the website or emailing feedback@zorbo.com. Your input helps us improve and provide the best shopping experience for all customers.
+
+
