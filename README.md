@@ -2,10 +2,13 @@
 
 Welcome to the final Submision of the Samsung Generative AI Hackathon-Voice Technology
 
+## Our Submission:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vCIddHzFkEE/0.jpg)](http://www.youtube.com/watch?v=vCIddHzFkEE)
 
 To execute the code you need to setup the following please:
 
 1. **Setup Twilio Account:**
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dYdb7bicVyo/0.jpg)](http://www.youtube.com/watch?v=dYdb7bicVyo)
 
 2. Setup Ngrok: [Ngrok Documentation](https://ngrok.com/download)
